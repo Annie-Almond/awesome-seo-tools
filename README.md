@@ -14,15 +14,19 @@ If you know any other SEO tools that deserve to be on this list, feel free to op
 
 ## Table of Contents
 
-1. [All in one SEO tools](#all-in-one-seo-tools)
-1. [Keyword Research](#keyword-research)
-1. [Backlink Analysis](#backlink-analysis)
-1. [Content Optimization](#content-optimization)
-1. [Rank Tracking](#rank-tracking)
-1. [Technical SEO](#technical-seo)
-1. [Local SEO](#local-seo)
-1. [SEO Browser Extensions](#seo-browser-extensions)
-1. [Miscellaneous Tools](#miscellaneous-tools)
+- [Awesome SEO tools](#awesome-seo-tools)
+  - [Contributing](#contributing)
+  - [Table of Contents](#table-of-contents)
+  - [All in one SEO tools](#all-in-one-seo-tools)
+  - [Keyword Research](#keyword-research)
+  - [Backlink Analysis](#backlink-analysis)
+  - [Content Optimization](#content-optimization)
+  - [Rank Tracking](#rank-tracking)
+  - [Technical SEO](#technical-seo)
+  - [Local SEO](#local-seo)
+  - [SEO Browser Extensions](#seo-browser-extensions)
+  - [Miscellaneous Tools](#miscellaneous-tools)
+  - [Information](#information)
 
 
 ## All in one SEO tools
@@ -148,12 +152,16 @@ Boost your local presence and connect with audiences in your community.
 - [Whitespark](https://whitespark.ca/) - Everything you need for better local SEO
 
 - [LocalFalcon](https://www.localfalcon.com/) - The Most Accurate
+  
+
 Local Rank Tracker
 
 - [Grid My Business](https://gridmybusiness.com/) - The Quickest Way To Discover Your Local Visibility
 
 - [Moz Local](https://moz.com/products/local) - Maximize your online visibility with Moz's powerful local SEO and reputation management tool
 
+- [SeoScout](https://seoscout.com/tools/schema-generator) - Schema Generator & Structured Data Testing Tool & Local Rank Trackerg
+  
 ## SEO Browser Extensions
 Equip your browser with tools for quick and efficient SEO insights on the go.
 
